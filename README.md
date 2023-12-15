@@ -45,7 +45,7 @@ Make sure to set the ENCRYPT_KEY environment variable in your project. If not se
 
 If ENCRYPT_KEY is not set, a default key will be used.
 
-<h1>Contributing<h1>
+<h1>Contributing</h1>
 If you'd like to contribute, please fork the repository and create a pull request. Contributions are welcome!
 
 <h1>Issues</h1>

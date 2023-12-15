@@ -36,7 +36,7 @@ console.log('Encrypted String:', encryptedString);
 console.log('Decrypted String:', decryptedString);
 </code></pre>
 
-<h1>Environment Variable<h1>
+<h1>Environment Variable</h1>
 
 Make sure to set the ENCRYPT_KEY environment variable in your project. If not set, a default key will be used.
 

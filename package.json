@@ -15,8 +15,22 @@
     "url": "git+https://github.com/sumeetghimire/encryptdecryptwithkey.git"
   },
   "keywords": [
-    "crypt"
-  ],
+    "crypt",
+    "cryptr",
+    "crypter",
+    "encrypt",
+    "decrypt",
+    "encryption",
+    "decryption",
+    "crypto",
+    "cipher",
+    "aes-256",
+    "aes256",
+    "aes-128-ctr",
+    "aes-128-gcm",
+    "hash",
+    "two-way-hash"
+],
   "author": "Sumeet Ghimire",
   "license": "MIT",
   "bugs": {

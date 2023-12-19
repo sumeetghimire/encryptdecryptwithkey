@@ -1,6 +1,6 @@
 {
   "name": "encryptdecryptwithkey",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Node.js package for encrypting and decrypting strings using the AES-128-CTR algorithm with a customizable encryption key",
   "main": "lib/EncryptDecryptWithKey.js",
   "directories": {
@@ -30,7 +30,7 @@
     "aes-128-gcm",
     "hash",
     "two-way-hash"
-],
+  ],
   "author": "Sumeet Ghimire",
   "license": "MIT",
   "bugs": {

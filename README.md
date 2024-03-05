@@ -1,7 +1,7 @@
 # encryptdecryptwithkey
 
 
-A Node.js package for encrypting and decrypting strings using the AES-128-CTR algorithm with a customizable encryption key.
+A Node.js package for encrypting and decrypting strings using the AES-256-GCM algorithm with a customizable encryption key.
 
 
 <h1>Installation</h1>
